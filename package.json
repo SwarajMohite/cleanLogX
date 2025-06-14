@@ -1,5 +1,5 @@
 {
-  "name": "cleanlogx",
+  "name": "cleanLogX",
   "version": "1.0.0",
   "description": "A clean and colorful logging tool for Node.js. Supports custom log levels, timestamps, file saving, and more. Great for APIs, CLIs, and projects that need clear logs.",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SwarajMohite/cleanlogx.git"
+    "url": "git+https://github.com/SwarajMohite/cleanLogX.git"
   },
   "keywords": [
     "logger",
@@ -31,9 +31,9 @@
   "author": "Swaraj Sanjay Mohite",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/SwarajMohite/cleanlogx/issues"
+    "url": "https://github.com/SwarajMohite/cleanLogX/issues"
   },
-  "homepage": "https://github.com/SwarajMohite/cleanlogx#readme",
+  "homepage": "https://github.com/SwarajMohite/cleanLogX#readme",
   "dependencies": {
     "chalk": "^5.4.1"
   }

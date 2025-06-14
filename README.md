@@ -1,4 +1,4 @@
-# cleanlogx
+# cleanLogX
 
 A simple, colorful console logger for Node.js developers with timestamps and optional prefixes.  
 Built with [chalk](https://github.com/chalk/chalk) for beautiful terminal output.
@@ -13,13 +13,13 @@ Built with [chalk](https://github.com/chalk/chalk) for beautiful terminal output
 ## Installation
 
 ```bash
-npm i cleanlogx
+npm i cleanLogX
 ````
 
 ## Usage
 
 ```js
-import CleanLog from 'cleanlogx';
+import CleanLog from 'cleanLogX';
 
 // Create logger instance with optional prefix
 const log = new CleanLog('MyApp');
